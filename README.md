@@ -13,8 +13,11 @@ A full-stack Progressive Web App for smart pantry and grocery management. Track 
 ## 📸 Screenshots
 
 
-| <img src="https://github.com/user-attachments/assets/25716986-baf4-41ab-b7e8-063fffb1b8ed" width="350" /> | <img src="https://github.com/user-attachments/assets/60349daa-d60f-4c02-800f-45014387d1de" width="350" /> |
-| <img src="https://github.com/user-attachments/assets/f8120c31-9dcb-4b02-bea0-fe1351b94f60" width="350" /> | <img src="https://github.com/user-attachments/assets/f439631e-8757-429c-844e-0947e49097fb" width="350" /> |
+<img width="1920" height="1080" alt="Screenshot (1076)" src="https://github.com/user-attachments/assets/892b58fa-e2f1-44b0-b5c9-55b8c6b5e995" />
+<img width="1920" height="1080" alt="Screenshot (1075)" src="https://github.com/user-attachments/assets/9bbd3bd4-bb0c-4425-aafd-55a5d38873e4" />
+<img width="1920" height="1080" alt="Screenshot (1074)" src="https://github.com/user-attachments/assets/2c89b0be-7543-42e8-8bca-03795b710c82" />
+<img width="1920" height="1080" alt="Screenshot (1073)" src="https://github.com/user-attachments/assets/7b7e9908-9faf-4704-a140-c03e8ec309c3" />
+<img width="1920" height="1080" alt="Screenshot (1072)" src="https://github.com/user-attachments/assets/f62d39c5-3dfb-4139-8286-95ec97c2dc20" />
 
 ---
 
